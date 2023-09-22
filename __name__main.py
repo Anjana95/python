@@ -1,0 +1,1 @@
+print("Value for __name__ is {} ".format(__name__))
